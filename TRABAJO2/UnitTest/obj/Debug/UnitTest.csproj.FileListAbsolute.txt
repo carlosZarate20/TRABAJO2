@@ -1,0 +1,7 @@
+D:\Rances\Universidad\Ciclo VI\Evolucion de Software\TRABAJO2\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\Rances\Universidad\Ciclo VI\Evolucion de Software\TRABAJO2\UnitTest\bin\Debug\UnitTest.dll
+D:\Rances\Universidad\Ciclo VI\Evolucion de Software\TRABAJO2\UnitTest\bin\Debug\UnitTest.pdb
+D:\Rances\Universidad\Ciclo VI\Evolucion de Software\TRABAJO2\UnitTest\bin\Debug\TRABAJO2.dll
+D:\Rances\Universidad\Ciclo VI\Evolucion de Software\TRABAJO2\UnitTest\bin\Debug\TRABAJO2.pdb
+D:\Rances\Universidad\Ciclo VI\Evolucion de Software\TRABAJO2\UnitTest\obj\Debug\UnitTest.dll
+D:\Rances\Universidad\Ciclo VI\Evolucion de Software\TRABAJO2\UnitTest\obj\Debug\UnitTest.pdb
